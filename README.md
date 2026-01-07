@@ -1,4 +1,4 @@
-# Big Home Data Sales Analysis Report
+# Big Home Data Inventory And Optimization Analysis 
 ## Project Overview
 This project leverages **SQL** for data extraction, transformation, and analysis to uncover key insights and performance trends across multiple departments and brands. The analysis focuses on sales performance, brand contributions, departmental performance, and discount effects to drive data-informed recommendations,
 ## Key Performance Indicators (KPIs)
